@@ -1,2 +1,4 @@
 # Chukiii
-Chukii is me
+## Chukii is me  
+### Chuk.Chukkii
+Repository for Sintech bootcamp
